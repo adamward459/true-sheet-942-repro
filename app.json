@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "true-sheet-942-repro",
+    "slug": "true-sheet-942-repro",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.adamward459.truesheet942"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "package": "com.adamward459.truesheet942"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
